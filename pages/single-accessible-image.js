@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
 import {
+  Box,
   BreadcrumbItem,
   BreadcrumbLink,
   Code,

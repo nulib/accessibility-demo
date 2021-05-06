@@ -1,4 +1,4 @@
 module.exports = {
-  basePath: "/accessibility-demo",
-  assetPrefix: "/accessibility-demo/",
+  basePath: process.env.NODE_ENV === "development" ? "" : "/accessibility-demo",
+  //assetPrefix: "/accessibility-demo/",
 };

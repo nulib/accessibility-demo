@@ -24,7 +24,7 @@ export default function Home() {
       <Heading as="h2" size="lg" mb={4}>
         Single image
       </Heading>
-      <Image src="/images/677-800x600.jpeg" width="800" height="600" />
+      <Image src="https://picsum.photos/800/600" width="800" height="600" />
       <Code
         children={`<img src="https://picsum.photos/800/600" />`}
         my={4}

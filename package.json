@@ -1,11 +1,10 @@
 {
-  "name": "learn-starter",
+  "name": "accessibility-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nulib.github.io/accessibility-demo",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export -o docs",
+    "build": "next build",
     "start": "next start"
   },
   "dependencies": {

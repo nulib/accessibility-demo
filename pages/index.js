@@ -24,6 +24,9 @@ export default function Home() {
         <WrapItem>
           <Link href="/group-accessible-image">Group accessible images</Link>
         </WrapItem>
+        <WrapItem>
+          <Link href="/decorative-image">Decorative image</Link>
+        </WrapItem>
       </Wrap>
     </Layout>
   );

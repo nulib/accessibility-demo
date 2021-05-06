@@ -1,3 +1,5 @@
-# NUL Accessibility Demo
+# Northwestern Libraries Accessibility Demos
 
-This app will serve as a playground to prep accessibility related demos for workshops and presentations for Northwestern University Libraries
+This app will serve as a playground for accessibility related demos Northwestern Libraries uses in workshops and presentations.
+
+View the demos website
